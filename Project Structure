@@ -1,0 +1,28 @@
+School-Dashboard/
+│
+├── assets/
+│ ├── images/
+│ └── icons/
+│
+├── css/
+│ ├── style.css
+│ └── dashboard.css
+│
+├── js/
+│ ├── app.js
+│ └── chart.js
+│
+├── pages/
+│ ├── students.html
+│ ├── teachers.html
+│ ├── attendance.html
+│ ├── exams.html
+│ ├── fees.html
+│ └── settings.html
+│
+├── screenshots/
+│ └── dashboard.png
+│
+├── index.html
+├── login.html
+└── README.md
